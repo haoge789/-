@@ -91,7 +91,7 @@ function sendMessage() {
         loadingElement.style.display = 'block';
     }
 
-    const apiKey = '$API_KEY_REQUIRED_IF_EXECUTING_OUTSIDE_NGC';
+    const apiKey = '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';
     const endpoint = 'https://integrate.api.nvidia.com/v1';
     
     const payload = {
