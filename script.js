@@ -91,8 +91,8 @@ function sendMessage() {
         loadingElement.style.display = 'block';
     }
 
-    const apiKey = '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';
-    const endpoint = 'https://api.deepseek.com/chat/completions';
+    const apiKey = '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';
+    const endpoint = 'https://build.nvidia.com/deepseek-ai/deepseek-r1';
 
     const payload = {
         model: "deepseek-chat",
